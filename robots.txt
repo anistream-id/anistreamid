@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anistreamid.pages.dev/sitemap.xml
